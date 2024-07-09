@@ -1,0 +1,67 @@
+/** Website template by freewebsitetemplates.com **/
+#background #page #body #sidebar ul li {
+	margin:20px 0 0 0;
+}
+#background #page #body .sidebar .connect {
+	margin:270px 0 0 100px;
+}
+#background #page #body .sidebar .connect h2 {
+	width:210px;
+	margin:0;
+}
+#background #page #body .sidebar .connect a {
+	margin:0 0 0 5px;
+}
+#background #page #body .sidebar .section {
+	margin:70px 0 0 100px;
+}
+#background #page #body .sidebar .section ul {
+	margin-left:0px;
+}
+#background #page #body .sidebar .section ul li ul {
+	margin-left:20px;
+}
+#background #page #body #content #header ul.navigation li a {
+	padding:0 30px;
+}
+#background #page #body #content .body .content p{
+	width:592px;
+}
+#background #page #body #content .body .content ul.section li h1 span {
+	top:-10px;
+}
+#background #page #body #content .body .content ul.section li span.connect {
+	top:-70px;
+}
+#background #page #body #content .body .content ul.section li h1 a {
+	top:10px;
+}
+#background #page #body .featured ul li {
+	margin: 0 17px;
+}
+#background #page #body #content form label input {
+	height:21px;
+	padding:5px 5px;
+}
+#background #page #footer .section ul {
+	top:20px;
+}
+#background #page #footer .section ul h2 {
+	left:30px;
+	top:10px;
+}
+#background #page #footer .section ul li {
+margin: 0 17px;
+}
+#background #page #footer .section ul li h1 {
+	margin:20px 0 -15px 30px;
+}
+#background #page #footer .section ul li p {
+	padding:0 20px 10px 30px;
+}
+#background #page #footer .section ul li.first {
+	margin: 0 17px;
+}
+#background #page #footer .section ul li p {
+	padding:0 20px 10px 30px;
+}

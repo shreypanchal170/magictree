@@ -1,0 +1,41 @@
+/** Website template by freewebsitetemplates.com **/
+#background #page #body #content .body .content ul.section li h1 a {
+	font-weight: normal;
+	text-decoration: none;
+	color:#553410;
+	font-family: 'Times New Roman';
+	font-size:24px;
+	margin:0 0 0 50px;
+	position:relative;
+	top:5px;
+	height:24px;
+	line-height:110px;
+	width:300px;
+}
+#background #page #body #content .body .content ul.section li span.connect {
+	position:relative;
+	top:-60px;
+	left:470px;
+	width:30px;
+}
+#background #page #body .sidebar .section {
+    padding: 75px 64px 0;
+    width: 200px;
+}
+#background #page #body #sidebar ul li a {
+    color: #542F06;
+    display: block;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    line-height: 25px;
+    outline: 0 none;
+    padding-top: 30px;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 #F1D791;
+}
+#background #page #body #content form label input {
+    line-height: 25px;
+    padding: 5px 5px;
+    width: 270px;
+	height:25px;
+}
